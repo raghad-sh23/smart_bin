@@ -1,0 +1,17 @@
+# Ignore environment folders
+.venv/
+env/
+__pycache__/
+
+# Ignore dataset
+dataset/
+dataset.zip
+
+# Ignore documents
+*.pdf
+*.docx
+*.zip
+
+# Ignore OS junk
+.DS_Store
+Thumbs.db
